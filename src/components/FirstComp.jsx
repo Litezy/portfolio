@@ -3,7 +3,7 @@ import mainImg from '../assets/images/main-img.jpg'
 
 const FirstComp = () => {
     return (
-        <div>
+        <div className=''>
             <div className="flex items-center justify-between w-11/12 mx-auto px-24">
                 <div className="">
                     <div className="lite shadow-md mb-5">Litezy Bethel,</div>
